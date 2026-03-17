@@ -1,5 +1,9 @@
 # IMGD/CS 4300: Graphics, Simulation, and Aesthetics
 
+Instructor: [Charlie Roberts](https://charlie-roberts.com)  
+PLA: Cas Cherniko  
+Time/Place: T-F 2-3:50 PM, Fuller Labs 222
+
 This course explores digital simulations and strategies for interactive representation. Topics include:
 
 - Parallel computing on graphics processing units (GPUs)  
@@ -14,11 +18,11 @@ All students will be expected to maintain a course website that contains links t
 Assignments and examples for this class will primarily use [WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) / JavaScript, however, other environments and systems for GPU programming will be discussed and may be used for final projects; just talk to me about it first!
 
 ## Office hours
-I will spend time on Discord answering questions asynchronously. Whenever possible, please post questions *publicly* in Discord so everyone can learn from the answers... and there's a good chance someone else in the class might be able to help with technical questions as well. My in-person office hours are from 3--5 on Tuesday, in Fuller Labs B20... please stop by! Some good reasons to stop by in-person office hours include:
+I will spend time on Discord answering questions asynchronously. Whenever possible, please post questions *publicly* in Discord so everyone can learn from the answers... and there's a good chance someone else in the class might be able to help with technical questions as well. My in-person office hours are from 2--4 on Wednesday, in Fuller Labs B20... please stop by! Some good reasons to stop by in-person office hours include:
 - We can't debug your problems over Discord
 - Brainstorming on final project / assignment ideas
 - You want to talk about art / music / graphics / programming more generally
-- You're interested in learning more about [my](http://charlie-roberts.com) [research](https://repl-wpi.github.io)
+- You're interested in learning more about [my research](http://charlie-roberts.com)
 - You want to tell me about your research
 - You'd like to sit and work a bit with me/other students nearby in case questions popup
 - Anything else, really!
